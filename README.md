@@ -1,1 +1,1 @@
-# PadillaLeadTest_AutoMated-CypressAutomation
+# PadillaLeadTest_Manual_Testing
